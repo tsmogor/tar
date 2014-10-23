@@ -93,7 +93,7 @@ punkty za częste wypożyczenia i od tego czy film jest nowy.
 1. Rzepniewski, Marcin
 1. Sadowski, Łukasz
 1. Siepetowski, Marcin
-1. Smogór, Tomasz
+1. Smogór, Tomasz [Zadania 1, 2](https://github.com/tsmogor/ruby)
 1. Socha, Bartłomiej
 1. Student, Dawid
 1. Szalay, Tamás
